@@ -1,0 +1,14 @@
+.body{
+    background-color: bisque;
+}
+.title{
+    color: blue;
+}
+.subtitle{
+    color: cornflowerblue;
+}
+#imageOne{
+    height: 700px;
+    width: 1500px;
+    margin: 20px;
+}
